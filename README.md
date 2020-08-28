@@ -1,4 +1,4 @@
-# MORTAL MEMORY
+# WACK A TRIO
 
 Macete você mesmo um dugtrio, numa versão básica do jogo wack-a-mole feito em javascript
 
